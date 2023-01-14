@@ -12,10 +12,13 @@
   },
   "author": "leslie",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/leslieXin92/projectCreateHelper.git",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/leslieXin92/projectCreateHelper.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "commander": "^10.0.0",
